@@ -1,1 +1,1 @@
-My readme description
+Learning about Git week3
